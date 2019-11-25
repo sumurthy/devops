@@ -1,0 +1,9 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/80256bed-98aa-4d75-a760-4d02f4823680/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/seattle103",
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}

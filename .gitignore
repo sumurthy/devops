@@ -1,5 +1,5 @@
 # Dependency directory
-node_modules
+/node_modules
 bower_components
 
 # Others 
@@ -42,4 +42,4 @@ dist/**/*
 yarn.lock
 
 # Ignore data
-data
+/data

@@ -1,4 +1,8 @@
+# Dependency directory
+node_modules
+bower_components
 
+# Others 
 lib-cov
 *.seed
 *.log
@@ -22,10 +26,6 @@ coverage
 
 # API keys and secrets
 .env
-
-# Dependency directory
-node_modules
-bower_components
 
 # Editors
 .idea
